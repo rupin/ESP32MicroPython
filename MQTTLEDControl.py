@@ -1,7 +1,7 @@
 import network
 from machine import Pin
 from umqtt.simple import MQTTClient
-
+# Use the URL https://testclient-cloud.mqtt.cool/ to test this code. 
 # Wi-Fi Credentials
 SSID = 'RupinJio'
 PASSWORD = '123456789'
