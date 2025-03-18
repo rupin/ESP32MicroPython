@@ -1,6 +1,6 @@
 import network
 from umqtt.simple import MQTTClient
-
+# Use the URL https://testclient-cloud.mqtt.cool/ to test this code. 
 # Wi-Fi Credentials
 SSID = 'SSID'
 PASSWORD = 'PWD'
